@@ -1,0 +1,6 @@
+Evelyn/com/Helloworld.java
+ Evelyn.com.Helloworld
+Evelyn/com/student.java
+ Evelyn.com.student
+Evelyn/com/Scoring.java
+ Evelyn.com.Scoring
