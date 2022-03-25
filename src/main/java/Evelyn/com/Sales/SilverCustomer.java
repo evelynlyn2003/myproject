@@ -1,6 +1,8 @@
-package Evelyn.com;
+package Evelyn.com.Sales;
 
-public class SilverCustomer extends Customer{
+import Evelyn.com.Sales.Customer;
+
+public class SilverCustomer extends Customer {
     public SilverCustomer(String id, int amount) {
         super(id, amount);
     }

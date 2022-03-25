@@ -1,4 +1,6 @@
-package Evelyn.com;
+package Evelyn.com.Score;
+
+import Evelyn.com.Score.student;
 
 public class Scoring {
     public static void main(String[] args) {
