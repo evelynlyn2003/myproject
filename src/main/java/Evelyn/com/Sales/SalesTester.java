@@ -1,4 +1,7 @@
-package Evelyn.com;
+package Evelyn.com.Sales;
+
+import Evelyn.com.Sales.Customer;
+
 //一般客戶 - 滿千送百
 //銀級客戶-滿千送百,再送百元還禮金
 //金級客戶-滿千送二百,再送二百還禮金

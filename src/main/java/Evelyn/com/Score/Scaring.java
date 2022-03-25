@@ -1,4 +1,7 @@
-package Evelyn.com;
+package Evelyn.com.Score;
+
+import Evelyn.com.Score.GraduateStudent;
+import Evelyn.com.Score.student;
 
 public class Scaring {
     public static void main(String[] args) {

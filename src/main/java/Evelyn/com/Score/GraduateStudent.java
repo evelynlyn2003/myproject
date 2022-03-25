@@ -1,6 +1,8 @@
-package Evelyn.com;
+package Evelyn.com.Score;
 
-public class GraduateStudent extends student{
+import Evelyn.com.Score.student;
+
+public class GraduateStudent extends student {
     int thesis;
 public GraduateStudent(String name,int english,
         int math,int thesis){

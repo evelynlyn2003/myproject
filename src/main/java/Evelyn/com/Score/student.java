@@ -1,4 +1,4 @@
-package Evelyn.com;
+package Evelyn.com.Score;
 
 public class student {
     String name;

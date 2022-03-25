@@ -1,4 +1,4 @@
-package Evelyn.com;
+package Evelyn.com.Sales;
 
 public class Customer {
     String id;
