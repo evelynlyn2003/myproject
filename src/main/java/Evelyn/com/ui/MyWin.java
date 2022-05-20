@@ -2,6 +2,8 @@ package Evelyn.com.ui;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class MyWin {
     public static void main(String[] args) {
@@ -14,8 +16,13 @@ public class MyWin {
        //add Component
         JButton button = new JButton("OK");
         //暱稱類別,Anonymous class
-       // MyActionListener listener = new MyActionListener();
-        //button.addActionListener(listener);
+
+        button.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                System.out.println("HELLO WORLD");
+            }
+        });
         //Layout
         //frame.setLayout(new BorderLayout());
         frame.setLayout(new FlowLayout());
