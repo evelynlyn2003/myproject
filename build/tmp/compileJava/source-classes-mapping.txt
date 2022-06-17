@@ -1,18 +1,33 @@
-Evelyn/com/Scaring.java
- Evelyn.com.Scaring
-Evelyn/com/GraduateStudent.java
- Evelyn.com.GraduateStudent
-Evelyn/com/Helloworld.java
- Evelyn.com.Helloworld
-Evelyn/com/Scoring.java
- Evelyn.com.Scoring
-Evelyn/com/Customer.java
- Evelyn.com.Customer
-Evelyn/com/SilverCustomer.java
- Evelyn.com.SilverCustomer
-Evelyn/com/student.java
- Evelyn.com.student
-Evelyn/com/SalesTester.java
- Evelyn.com.SalesTester
-Evelyn/com/GoldenCustomer.java
- Evelyn.com.GoldenCustomer
+Evelyn/com/Sales/Myclass.java
+ Evelyn.com.Sales.Myclass
+Evelyn/com/ui/GuessFrame.java
+ Evelyn.com.ui.GuessFrame
+ Evelyn.com.ui.GuessFrame$1
+Evelyn/com/Sales/MyInterface.java
+ Evelyn.com.Sales.MyInterface
+Evelyn/com/tickit/Tester.java
+ Evelyn.com.tickit.Tester
+Evelyn/com/Sales/SalesTester.java
+ Evelyn.com.Sales.SalesTester
+Evelyn/com/tickit/Station.java
+ Evelyn.com.tickit.Station
+Evelyn/com/Sales/GoldenCustomer.java
+ Evelyn.com.Sales.GoldenCustomer
+Evelyn/com/Score/Scoring.java
+ Evelyn.com.Score.Scoring
+Evelyn/com/Sales/Customer.java
+ Evelyn.com.Sales.Customer
+Evelyn/com/Score/student.java
+ Evelyn.com.Score.student
+Evelyn/com/Score/Printable.java
+ Evelyn.com.Score.Printable
+Evelyn/com/Score/GraduateStudent.java
+ Evelyn.com.Score.GraduateStudent
+Evelyn/com/Sales/SilverCustomer.java
+ Evelyn.com.Sales.SilverCustomer
+Evelyn/com/tickit/Ticket.java
+ Evelyn.com.tickit.Ticket
+Evelyn/com/HelloWorld/Helloworld.java
+ Evelyn.com.HelloWorld.Helloworld
+Evelyn/com/Sales/DiscountCustomer.java
+ Evelyn.com.Sales.DiscountCustomer
