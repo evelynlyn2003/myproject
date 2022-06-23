@@ -1,21 +1,20 @@
 package Evelyn.com.Score;
 
-
-//修飾字(子) Modifier  public/default(package)/private/protected(子)
-public class student implements Printable {
+public class Student implements Printable {
     protected String name;
     protected int english;
     protected int math;
-    public student(String name) {
+    public Student(String name) {
         this.name = name;
     }
-    public student(String name, int english, int math){
+    public Student(String name, int english, int math){
         this(name);
         //        this.name = name;
         this.english = english;
         this.math = math;
+//        System.out.println("Test");
     }
-    public student() {
+    public Student() {
         this("John Doe", -1, -1);
         /*name = "John Doe";
         english = -1;
