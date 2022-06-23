@@ -1,5 +1,5 @@
 Evelyn/com/Sales/Myclass.java
- Evelyn.com.Sales.Myclass
+ Evelyn.com.Sales.MyClass
 Evelyn/com/ui/GuessFrame.java
  Evelyn.com.ui.GuessFrame
  Evelyn.com.ui.GuessFrame$1
@@ -29,5 +29,7 @@ Evelyn/com/tickit/Ticket.java
  Evelyn.com.tickit.Ticket
 Evelyn/com/HelloWorld/Helloworld.java
  Evelyn.com.HelloWorld.Helloworld
+Evelyn/com/Score/ScoringNG.java
+ Evelyn.com.Score.ScoringNG
 Evelyn/com/Sales/DiscountCustomer.java
  Evelyn.com.Sales.DiscountCustomer
