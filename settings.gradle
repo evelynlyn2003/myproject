@@ -1,2 +1,8 @@
 rootProject.name = 'myproject'
+include 'src:main:java2'
+findProject(':src:main:java2')?.name = 'java2'
+include 'src:main:untitled'
+findProject(':src:main:untitled')?.name = 'untitled'
+include 'src:main:java2'
+findProject(':src:main:java2')?.name = 'java2'
 

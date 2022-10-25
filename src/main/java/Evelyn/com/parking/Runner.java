@@ -11,7 +11,7 @@ public class Runner {
         String exitTime = "11:59";
         SimpleDateFormat sdf =
                 new SimpleDateFormat("HH:mm");
-        //Exception例外 vs Error錯誤
+        //Exception&#x4F8B;&#x5916;  vs Error&#x932F;&#x8AA4;
         Date d = null;
         try {
             d = sdf.parse(enterTime);

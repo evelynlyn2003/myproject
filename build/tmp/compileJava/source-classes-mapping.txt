@@ -11,6 +11,10 @@ Evelyn/com/Score/Scoring.java
  Evelyn.com.Score.Scoring
 Evelyn/com/Score/GraduateStudent.java
  Evelyn.com.Score.GraduateStudent
+資料結構/時間複雜度.java
+ 資料結構.時間複雜度
+資料結構/ch1_2a.java
+ 資料結構.ch1_2a
 Evelyn/com/Sales/SilverCustomer.java
  Evelyn.com.Sales.SilverCustomer
 Evelyn/com/tickit/Ticket.java
@@ -29,10 +33,16 @@ Evelyn/com/Sales/DiscountCustomer.java
 Evelyn/com/ui/MyActionListener.java
  Evelyn.com.ui.MyActionListener
  Evelyn.com.ui.MyActionListener$Myform
+java必修課/ch2_2.java
+ java必修課.ch2_2
+資料結構/ch1_2b.java
+ 資料結構.ch1_2b
 Evelyn/com/Sales/MyClass2.java
  Evelyn.com.Sales.MyClass2
 Evelyn/com/Sales/MyInterface.java
  Evelyn.com.Sales.MyInterface
+資料結構/ch1_4a.java
+ 資料結構.ch1_4a
 Evelyn/com/ui2/MyWin.java
  Evelyn.com.ui2.MyWin
 Evelyn/com/tickit/Station.java
@@ -53,3 +63,5 @@ Evelyn/com/Score/Student.java
  Evelyn.com.Score.Student
 Evelyn/com/Sales/MyClass.java
  Evelyn.com.Sales.MyClass
+程式設計/終極密碼戰.java
+ 程式設計.終極密碼戰
